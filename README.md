@@ -3,18 +3,18 @@
 **Интеллектуальное веб-приложение для изучения английских слов.**  
 Проект содержит full-stack разработку и машинное обучение. Нейросеть анализирует ваши ошибки, предсказывает сложные слова и составляет персональный план обучения.
 
----
 
 ##  Скриншоты
 
-| Главная страница | Тренажер | Рекомендации |
-| :---: | :---: | :---: |
-| <img width="1895" height="892" alt="image" src="https://github.com/user-attachments/assets/d971da4f-3707-4342-941c-2cb05cb0c6a1" />
- | <img width="1891" height="898" alt="image" src="https://github.com/user-attachments/assets/be657d40-7be4-41a8-9942-7a40859f4f33" />
- | <img width="852" height="566" alt="image" src="https://github.com/user-attachments/assets/348e349f-017e-41e4-b690-e739a7040cc7" />
- |
+Главная страница:
+<img width="1895" height="892" alt="image" src="https://github.com/user-attachments/assets/d971da4f-3707-4342-941c-2cb05cb0c6a1" />
 
----
+Тренажер:
+<img width="1891" height="898" alt="image" src="https://github.com/user-attachments/assets/be657d40-7be4-41a8-9942-7a40859f4f33" />
+
+Рекомендации:
+<img width="852" height="566" alt="image" src="https://github.com/user-attachments/assets/348e349f-017e-41e4-b690-e739a7040cc7" />
+
 
 ##  Стек технологий
 
