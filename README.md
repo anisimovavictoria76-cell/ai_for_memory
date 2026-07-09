@@ -9,7 +9,10 @@
 
 | Главная страница | Тренажер | Рекомендации |
 | :---: | :---: | :---: |
-| (Вставьте сюда скриншот 1) | (Вставьте скриншот 2) | (Вставьте скриншот 3) |
+| <img width="1895" height="892" alt="image" src="https://github.com/user-attachments/assets/d971da4f-3707-4342-941c-2cb05cb0c6a1" />
+ | <img width="1891" height="898" alt="image" src="https://github.com/user-attachments/assets/be657d40-7be4-41a8-9942-7a40859f4f33" />
+ | <img width="852" height="566" alt="image" src="https://github.com/user-attachments/assets/348e349f-017e-41e4-b690-e739a7040cc7" />
+ |
 
 ---
 
